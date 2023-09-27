@@ -1,0 +1,81 @@
+/* font-family: 'Barlow', sans-serif;
+font-family: 'Fraunces', serif;
+
+Soft red: hsl(7, 99%, 70%)
+- Yellow: hsl(51, 100%, 49%)
+- Dark desaturated cyan (graphic design text): hsl(167, 40%, 24%)
+- Dark blue (photography text): hsl(198, 62%, 26%)
+- Dark moderate cyan (footer): hsl(168, 34%, 41%)
+
+Very dark desaturated blue: hsl(212, 27%, 19%)
+- Very dark grayish blue: hsl(213, 9%, 39%)
+- Dark grayish blue: hsl(232, 10%, 55%)
+- Grayish blue: hsl(210, 4%, 67%)
+- White: hsl(0, 0%, 100%)
+
+doger blue:  hsl(199, 99%, 55%);
+
+Font size: 18px (body copy) */
+
+
+body    {
+    margin: 0
+}
+
+/* .grid   {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(auto, 1fr);
+} */
+
+/* header  {
+    background-image: url(images/desktop/image-header.jpg);
+} */
+/* header h1   {
+    font-family: 'Barlow', sans-serif;
+    font-weight: 900;
+    grid-column: span 2;
+} */
+
+.navbar-brand   {
+    font-family: 'Barlow', sans-serif;
+    font-weight: 900;
+    color: hsl(0, 0%, 100%);
+}
+
+h1  {
+    font-family: 'Barlow', sans-serif;
+    font-weight: 900;
+}
+
+h2  {
+    font-family: 'Fraunces', serif;  
+}
+
+.learn  {
+    font-family: 'Fraunces', serif;
+}
+
+/* header nav {
+    grid-column: 8 / span 6;
+    justify-self: end;
+}
+
+header h2   {
+    font-family: 'Fraunces', serif;
+}
+
+main #transform {
+    grid-column: 1/ span 1;
+    border: 1px solid red;
+}
+
+#transform-img  {
+    grid-column: 2 / span 1;
+}
+
+
+
+.client-img {
+    border-radius: 50%;
+} */
