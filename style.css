@@ -56,6 +56,10 @@ h2  {
     font-family: 'Fraunces', serif;
 }
 
+#arrow  {
+    margin-left: 710px;
+}
+
 /* header nav {
     grid-column: 8 / span 6;
     justify-self: end;
